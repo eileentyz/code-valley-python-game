@@ -1,0 +1,652 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code Valley\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\CatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DoorInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\StoreButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StoreButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LaptopInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\BedInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BedInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\AuthUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AuthUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\PlayerData1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerData1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\LoginManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LoginManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\LogDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LogDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\SaveSystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveSystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CoinUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\SceneLoader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneLoader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UI\\GameUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\GameUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\SceneLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SceneLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\desktopBGM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\desktopBGM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\BookBGM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BookBGM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher9_close_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher9_close_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIClosePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIClosePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\ButtonHoverSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ButtonHoverSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\ScreenFader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ScreenFader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\bookshelfinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\bookshelfinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher6_close.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher6_close.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UIPanelSwitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\PanelControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PanelControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\SceneSetup\\LivingRoomScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneSetup\\LivingRoomScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\Interactables\\LaptopInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Interactables\\LaptopInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\UIButtonSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UIButtonSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\NPCs\\TeacherNPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPCs\\TeacherNPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaptopInteract.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaptopInteract.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaptopInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:20:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:33:57.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:23:18.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreButton.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\StoreButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StoreButton.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\StoreButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StoreButton.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:58:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorInteractable.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorInteractable.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorInteractable.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAtwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:31:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\CatController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CatController.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\CatController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CatController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAtwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:42:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BedInteractable.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\BedInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BedInteractable.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\BedInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BedInteractable.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:43:35.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthUIManager.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\AuthUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AuthUIManager.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\AuthUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AuthUIManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:48:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerData1.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\PlayerData1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData1.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\PlayerData1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerData1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:01:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogDisplay.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LogDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogDisplay.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\LogDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:01:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoginManager.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\LoginManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoginManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:18:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveSystem1.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\SaveSystem1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem1.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\SaveSystem1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SaveSystem1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:53:38.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CoinUIManager.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinUIManager.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinUIManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:49:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneLoader1.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\SceneLoader1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader1.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\SceneLoader1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:33:29.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UI\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameUI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:56:48.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "desktopBGM.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\desktopBGM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\desktopBGM.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\desktopBGM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\desktopBGM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:16:13.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneLoader.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:49:13.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookBGM.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\BookBGM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BookBGM.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\BookBGM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BookBGM.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:47:21.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIPanelSwitcher7.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher7.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher7.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher7.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher7.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:04:55.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIPanelSwitcher9_close_test.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher9_close_test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher9_close_test.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher9_close_test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher9_close_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:05:43.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UIPanelSwitcher3.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher3.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher3.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher3.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:44:35.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIPanelSwitcher8.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher8.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher8.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher8.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T02:43:21.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizQuestion.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\QuizQuestion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizQuestion.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T02:53:02.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScreenFader.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\ScreenFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenFader.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\ScreenFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenFader.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:26:49.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UIPanelSwitcher4.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher4.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher4.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher4.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher4.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:55:04.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ButtonHoverSound.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\ButtonHoverSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonHoverSound.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\ButtonHoverSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonHoverSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:10:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UIClosePanel.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIClosePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIClosePanel.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIClosePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIClosePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:53:06.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UIPanelSwitcher5.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher5.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher5.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher5.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher5.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:56:38.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bookshelfinteract.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\bookshelfinteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\bookshelfinteract.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\bookshelfinteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\bookshelfinteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:07:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UIPanelSwitcher6_close.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher6_close.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher6_close.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher6_close.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher6_close.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:58:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UIPanelSwitcher2.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher2.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:39:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UIPanelSwitcher1.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher1.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:28:36.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PanelControl.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\PanelControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PanelControl.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\PanelControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PanelControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:14:42.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UIPanelSwitcher.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIPanelSwitcher.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\UIPanelSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIPanelSwitcher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:09:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LaptopInteractable.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\Interactables\\LaptopInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\LaptopInteractable.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\Interactables\\LaptopInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\LaptopInteractable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:53:21.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UIButtonSound.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\UIButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\UIButtonSound.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\UIButtonSound.cs",
+              "RelativeToolTip": "Assets\\UIButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:14:39.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:16:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LivingRoomScene.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\SceneSetup\\LivingRoomScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneSetup\\LivingRoomScene.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\SceneSetup\\LivingRoomScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneSetup\\LivingRoomScene.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:53:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TeacherNPC.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\NPCs\\TeacherNPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCs\\TeacherNPC.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\NPCs\\TeacherNPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCs\\TeacherNPC.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAtwH4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:33:10.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
