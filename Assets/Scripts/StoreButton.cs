@@ -55,6 +55,13 @@ public class StoreButton : MonoBehaviour
         UpdateBuyButton();
     }
 
+    public void Update()
+    {
+        quizManager.coins = GameManager.Instance.currentPlayer.coins;
+
+        UpdateBuyButton();
+    }
+
 
 
     public void TogglePanel()

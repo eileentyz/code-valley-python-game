@@ -24,7 +24,6 @@ public class GameManager : MonoBehaviour
     {
         if (SaveSystem1.LoadPlayer(username) != null)
         {
-            UnityEngine.Debug.Log("Username already exists");
             return;
         }
 
