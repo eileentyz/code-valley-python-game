@@ -4688,8 +4688,8 @@ MonoBehaviour:
   - {fileID: 1097679707}
   - {fileID: 923447009}
   feedbackText: {fileID: 2138171213}
-  coinDisplay: {fileID: 761189161}
-  coinDisplay1: {fileID: 450891341}
+  coinDisplay: {fileID: 450891341}
+  coinDisplay1: {fileID: 761189161}
   allQuestions:
   - questionText: What is the correct way to define a function in Python?
     options:

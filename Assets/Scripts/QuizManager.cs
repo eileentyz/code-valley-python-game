@@ -42,7 +42,6 @@ public class QuizManager : MonoBehaviour
             UnityEngine.Debug.LogWarning("coinUIManager is not assigned!");
         }
 
-
         // Update UI with correct coin value
         coinUIManager.UpdateCoinDisplay();
         coinDisplay.text = "Coins: " + coins;
@@ -93,14 +92,14 @@ public class QuizManager : MonoBehaviour
         if (selectedIndex == currentQuestion.correctOptionIndex)
         {
             feedbackText.text = "Correct!";
-            coins += 10;
+            //coins += 10;
 
             GameManager.Instance.currentPlayer.coins += 10;
             GameManager.Instance.SavePlayer();
             coinUIManager.UpdateCoinDisplay();
 
-            coinDisplay.text = "Coins: " + coins;
-            coinDisplay1.text = "Coins: " + coins;
+            //coinDisplay.text = "Coins: " + coins;
+            //coinDisplay1.text = "Coins: " + coins;
 
             // Turn correct button green
             optionButtons[selectedIndex].GetComponent<Image>().color = Color.green;

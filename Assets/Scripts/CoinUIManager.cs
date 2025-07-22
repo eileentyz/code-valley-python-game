@@ -18,7 +18,7 @@ public class CoinUIManager : MonoBehaviour
         {
             int coins = GameManager.Instance.currentPlayer.coins;
             coinText.text = "Coins: " + coins;
-            coinText1.text = coinText.text;
+            coinText1.text = "Coins: " + coins;
         }
         else
         {
