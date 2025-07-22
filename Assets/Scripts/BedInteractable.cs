@@ -63,7 +63,6 @@ public class BedInteractable : MonoBehaviour
         {
             isPlayerNear = false;
             interactionPrompt.SetActive(false);
-            storeButton.SetActive(true);
         }
     }
 }
