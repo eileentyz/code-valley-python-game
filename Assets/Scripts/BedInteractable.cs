@@ -40,6 +40,11 @@ public class BedInteractable : MonoBehaviour
                 playerControlScript.enabled = false;
             }
         }
+
+        if (!pythonPanel.activeSelf)
+        {
+            storeButton.SetActive(true);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -58,6 +63,7 @@ public class BedInteractable : MonoBehaviour
         {
             isPlayerNear = false;
             interactionPrompt.SetActive(false);
+            storeButton.SetActive(true);
         }
     }
 }

@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Code Valley\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\CatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DoorInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\StoreButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\StoreButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LaptopInteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Core\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CoinUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuizManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\CatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CatController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\BedInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BedInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DoorInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\AuthUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\SaveSystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SaveSystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CoinUIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code Valley\\Assets\\Scripts\\SceneLoader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -170,80 +170,93 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LaptopInteract.cs",
-              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LaptopInteract.cs",
-              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LaptopInteract.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T10:20:40.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
               "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\Core\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T15:33:57.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QuizManager.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
               "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\QuizManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T03:23:18.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "CoinUIManager.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinUIManager.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:49:54.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaptopInteract.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaptopInteract.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\LaptopInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaptopInteract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:20:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\CatController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CatController.cs",
+              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\CatController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CatController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:42:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "StoreButton.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\StoreButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StoreButton.cs",
               "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\StoreButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\StoreButton.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T03:58:18.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DoorInteractable.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DoorInteractable.cs",
               "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\DoorInteractable.cs",
               "RelativeToolTip": "Assets\\Scripts\\DoorInteractable.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAtwDMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:31:21.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CatController.cs",
-              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\CatController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CatController.cs",
-              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\CatController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CatController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAtwEUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T08:42:55.12Z",
               "EditorCaption": ""
             },
             {
@@ -254,14 +267,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\BedInteractable.cs",
               "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\BedInteractable.cs",
               "RelativeToolTip": "Assets\\Scripts\\BedInteractable.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T06:43:35.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthUIManager.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\AuthUIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AuthUIManager.cs",
@@ -269,12 +282,11 @@
               "RelativeToolTip": "Assets\\Scripts\\AuthUIManager.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T05:48:04.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T05:48:04.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PlayerData1.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\PlayerData1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData1.cs",
@@ -282,12 +294,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerData1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T02:01:09.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-18T02:01:09.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "LogDisplay.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LogDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LogDisplay.cs",
@@ -295,12 +306,11 @@
               "RelativeToolTip": "Assets\\Scripts\\LogDisplay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T06:01:35.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T06:01:35.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginManager.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\LoginManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoginManager.cs",
@@ -308,12 +318,11 @@
               "RelativeToolTip": "Assets\\Scripts\\LoginManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T13:18:04.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T13:18:04.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SaveSystem1.cs",
               "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\SaveSystem1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveSystem1.cs",
@@ -322,18 +331,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T13:53:38.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CoinUIManager.cs",
-              "DocumentMoniker": "C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinUIManager.cs",
-              "ToolTip": "C:\\Code Valley\\Assets\\Scripts\\CoinUIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CoinUIManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T15:49:54.939Z"
             },
             {
               "$type": "Document",

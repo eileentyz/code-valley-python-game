@@ -50,6 +50,9 @@ public class StoreButton : MonoBehaviour
             if (catObject != null)
                 catObject.SetActive(false);
         }
+        quizManager.coins = GameManager.Instance.currentPlayer.coins;
+
+        UpdateBuyButton();
     }
 
 
@@ -100,7 +103,7 @@ public class StoreButton : MonoBehaviour
 
         // Update coin UI
         coinUIManager.UpdateCoinDisplay();
-        //quizManager.coinDisplay.text = "Coins: " + quizManager.coins;
+        quizManager.coinDisplay.text = "Coins: " + quizManager.coins;
         quizManager.coinDisplay1.text = "Coins: " + quizManager.coins;
 
         // Disable button and show purchase
