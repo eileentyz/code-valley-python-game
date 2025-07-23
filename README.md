@@ -17,11 +17,11 @@ In Code Valley, you begin in a quaint home and complete Python-themed quizzes an
 
 ### How to Play?
 
-1. Download and run the .exe build file.
+1. Download and run the .exe build file (under 'Build' folder).
 
 2. Log in with a username and password.
 
-3. Begin your Python journey!
+3. Begin your Python journey! (Use WSAD or up down left right key to move)
 
 PS: Your data (username, coins, and progress) is saved automatically!
 
