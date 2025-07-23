@@ -1,7 +1,5 @@
 # Code Valley - Where learning Python meets cozy gaming ᯓ★
 
-A cozy 2D Unity game where you learn Python programming through gameplay!
-
 Inspired by Stardew Valley, Code Valley combines the relaxing vibe of life simulators with the intellectual challenge of Python learning.
 
 ## Game Concept
